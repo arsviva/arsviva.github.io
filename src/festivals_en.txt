@@ -1,0 +1,37 @@
+// -*- coding: utf-8; -*-
+:encoding: UTF-8
+
+:page: festivals
+
+
+== Festivals and concerts
+
+{sp} +
+
+[cols=",99"]
+|====
+|1999&nbsp;–&nbsp; | The International choral festival, Castilla at Leon, Soria, Spain
+|2000&nbsp;–&nbsp; | The International choral festival and competition "Music World", Italy
+|2001&nbsp;–&nbsp; | The International choral festival "Alta Pusteria", Alto Adige, Italy
+|2001&nbsp;–&nbsp; | Ihe International choral festival "Star Bethlehem", Moscow, Russia
+|2002&nbsp;–&nbsp; | The International choral festival of the Central Catalonia, Berga, Spain
+|2002&nbsp;–&nbsp; | Participation in fund celebrations "Don Carlo Gnocchi" (century Carlo Gnocci), Milan, Turin, Bergamo, Italy
+|2002&nbsp;–&nbsp; | The International choral festival "Star Bethlehem", Moscow, Russia
+|2004&nbsp;–&nbsp; | The International choral festival "Semana Coral de Alava", Vittoria, Spain
+|2004&nbsp;–&nbsp; | The International choral festival "Caja de Burgos", Burgos, Spain
+|2004&nbsp;–&nbsp; | Christmas festival, Karlsruhe, Germany
+|2006&nbsp;–&nbsp; | The concerts devoted to a holiday of apostles Peter and Paul, Senigallia, Kastellone di Suasa, Marke, Italy
+|2007&nbsp;–&nbsp; | The International choral festival "Alta Pusteria International Choir Festival" Southern Tirol, Italy
+|2008&nbsp;–&nbsp; | The International choral festival "Alta Pusteria International Choir Festival" Southern Tirol, Italy
+|2009&nbsp;–&nbsp; | The International choral festival "I Castelli Incantati", Rome, Italy
+|2010&nbsp;–&nbsp; | The International choral festival "Ohrid Choir Festival", Ochrid, Macedonia
+|2011&nbsp;–&nbsp; | The International choral festival "Ohrid Choir Festival", Оchrid, Macedonia
+|2012&nbsp;–&nbsp; | 1st International choral festival "Florence International Choir Festiva", Florence, Italy
+|2012&nbsp;–&nbsp; | Christmas concerts to Belgium, Bruxelles and Holland, Leiden
+|2013&nbsp;–&nbsp; | The International  festival of choirs and orchesras,Оchrid, Struga, Macedonia
+|2013&nbsp;–&nbsp; | The International festival of arts "Road to Christmas", Moscow
+|====
+
+{sp} +
+
+Besides participation in choral festivals, chorus concerts passed in Toulouse, Nim, Munich, Wien, Moscow, Baden-Baden, Utrecht and towns southern France, Poland, Czech Republic, Holland, Germany.

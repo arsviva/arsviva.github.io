@@ -1,0 +1,33 @@
+// -*- coding: utf-8; -*-
+:encoding: UTF-8
+
+:page: contacts
+
+
+== Контакты
+
+{sp} +
+
+*Манин Валерий Николаевич*
+
++++<span class="glyphicon glyphicon-earphone"></span>+++ {nbsp}
++7 499 367 50 95 {nbsp} (тел./факс)
+
++++<span class="glyphicon glyphicon-earphone"></span>+++ {nbsp}
++7 903 243 46 60 {nbsp} (моб.)
+
++++<span class="glyphicon glyphicon-envelope"></span>+++ {nbsp}
+mailto:vmanin_arsviva@mail.ru[]
+
+{sp} +
+
+*Сорокин Николай Антонович*
+
++++<span class="glyphicon glyphicon-earphone"></span>+++ {nbsp}
++7 499 159 98 30
+
++++<span class="glyphicon glyphicon-earphone"></span>+++ {nbsp}
++7 906 751 08 84 {nbsp} (моб.)
+
++++<span class="glyphicon glyphicon-envelope"></span>+++ {nbsp}
+mailto:nsorokin@asteis.net[]

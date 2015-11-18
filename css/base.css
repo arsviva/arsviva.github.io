@@ -1,0 +1,110 @@
+
+a {
+  color: #101a88;
+}
+
+
+/*
+ * Header
+ */
+
+.header {
+  position: relative;
+  background-color: #2c2c2c;
+}
+
+.logo {
+  padding-top: 25px;
+  color: #fedcba;
+  text-shadow: 0 0 7px #000000;
+  font-weight: 800;
+  font-size: 44pt;
+  text-align: center;
+}
+
+.sublogo {
+  padding-bottom: 25px;
+  color: #fedcba;
+  text-shadow: 0 0 7px #000000;
+  font-weight: 800;
+  font-size: 8pt;
+  text-align: center;
+}
+
+
+
+/*
+ * Body
+ */
+
+body
+{
+  padding-top: 50px;
+  padding-bottom: 40px;
+  color: #000000;
+  background-color: #2c2c2c;
+  font-family: arial;
+}
+
+div.body
+{
+  position: relative;
+  margin: 0 auto;
+  background-color: #ffffff;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+
+
+/*
+ * Content
+ */
+
+div.content {
+  padding-top: 20px;
+  padding-bottom: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+/* Taken from asciidoc.css */
+th.tableblock.halign-left, td.tableblock.halign-left {
+  text-align: left;
+}
+th.tableblock.halign-center, td.tableblock.halign-center {
+  text-align: center;
+}
+th.tableblock.halign-right, td.tableblock.halign-right {
+  text-align: right;
+}
+th.tableblock.valign-top, td.tableblock.valign-top {
+  vertical-align: top;
+}
+th.tableblock.valign-middle, td.tableblock.valign-middle {
+  vertical-align: middle;
+}
+th.tableblock.valign-bottom, td.tableblock.valign-bottom {
+  vertical-align: bottom;
+}
+
+
+
+/*
+ * Image Gallery
+ */
+
+.thumb img {
+  filter: none; /* IE6-9 */
+  -webkit-filter: grayscale(0);
+  border-radius:5px;
+  background-color: #ffffff;
+  border: 1px solid #dddddd;
+  padding:5px;
+}
+.thumb img:hover {
+  filter: gray; /* IE6-9 */
+  -webkit-filter: grayscale(1);
+}
+.thumb {
+  padding:5px;
+}

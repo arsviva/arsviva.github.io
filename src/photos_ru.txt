@@ -1,0 +1,312 @@
+// -*- coding: utf-8; -*-
+:encoding: UTF-8
+
+:page: photos
+
+
+== Фотографии
+
+
+{sp} +
+
+*1996 – Испания, Кантонигрос*
+
+++++
+<div class="row"> 
+  <div class="col-md-3 col-sm-4 col-xs-6 thumb">
+    <a class="fancyimage" data-fancybox-group="group" href="img/1996_CANTONIGR/BAZ_1996_CANTONIGR.jpg">
+      <img class="img-responsive" src="img/1996_CANTONIGR/BAZ_1996_CANTONIGR.jpg">
+    </a>
+  </div>
+</div>
+++++
+
+
+{sp} +
+
+*1998 – Чехия, Пардубице*
+
+++++
+<div class="row">
+  <div class="col-md-3 col-sm-4 col-xs-6 thumb">
+    <a class="fancyimage" data-fancybox-group="group" href="img/1998_PARDUBIC/BAZ_1998_PARDUBIC.jpg">
+      <img class="img-responsive" src="img/1998_PARDUBIC/BAZ_1998_PARDUBIC.jpg">
+    </a>
+  </div>
+</div>
+++++
+
+
+{sp} +
+
+*1999 – Испания, Сория*
+
+++++
+<div class="row">
+  <div class="col-md-3 col-sm-4 col-xs-6 thumb">
+    <a class="fancyimage" data-fancybox-group="group" href="img/1999_SORIA/image.jpg">
+      <img class="img-responsive" src="img/1999_SORIA/image.jpg">
+    </a>
+  </div>
+</div>
+++++
+
+
+{sp} +
+
+*2000 – Италия, Фивиццано*
+
+++++
+<div class="row">
+  <div class="col-md-3 col-sm-4 col-xs-6 thumb">
+    <a class="fancyimage" data-fancybox-group="group" href="img/2004_SRT_BASK/gusakova3.jpg">
+      <img class="img-responsive" src="img/2004_SRT_BASK/gusakova3.jpg">
+    </a>
+  </div>
+</div>
+++++
+
+
+{sp} +
+
+*2000 – Испания, Монсеррат – Монастырь Монсеррат*
+
+++++
+<div class="row">
+  <div class="col-md-3 col-sm-4 col-xs-6 thumb">
+    <a class="fancyimage" data-fancybox-group="group" href="img/2000_SPAIN/image.jpg">
+      <img class="img-responsive" src="img/2000_SPAIN/image.jpg">
+    </a>
+  </div>
+</div>
+++++
+
+
+{sp} +
+
+*2001 – Россия, Москва – Храм Христа Спасителя*
+
+++++
+<div class="row">
+  <div class="col-md-3 col-sm-4 col-xs-6 thumb">
+    <a class="fancyimage" data-fancybox-group="group" href="img/2001_MOSCOW/image.jpg">
+      <img class="img-responsive" src="img/2001_MOSCOW/image.jpg">
+    </a>
+  </div>
+</div>
+++++
+
+
+{sp} +
+
+*2002 – Испания, Каталония*
+
+++++
+<div class="row">
+  <div class="col-md-3 col-sm-4 col-xs-6 thumb">
+    <a class="fancyimage" data-fancybox-group="group" href="img/2004_SRT_BASK/gusakova4.jpg">
+      <img class="img-responsive" src="img/2004_SRT_BASK/gusakova4.jpg">
+    </a>
+  </div>
+  <div class="col-md-3 col-sm-4 col-xs-6 thumb">
+    <a class="fancyimage" data-fancybox-group="group" href="img/2004_SRT_BASK/gusakova5.jpg">
+      <img class="img-responsive" src="img/2004_SRT_BASK/gusakova5.jpg">
+    </a>
+  </div>
+</div>
+++++
+
+
+{sp} +
+
+*2002 – Италия, Милан – Институт Палаццоли*
+
+++++
+<div class="row">
+  <div class="col-md-3 col-sm-4 col-xs-6 thumb">
+    <a class="fancyimage" data-fancybox-group="group" href="img/2002_MILAN/image.jpg">
+      <img class="img-responsive" src="img/2002_MILAN/image.jpg">
+    </a>
+  </div>
+</div>
+++++
+
+
+{sp} +
+
+*2002 – Зал церковных соборов Храма Христа Спасителя*
+
+++++
+<div class="row">
+  <div class="col-md-3 col-sm-4 col-xs-6 thumb">
+    <a class="fancyimage" data-fancybox-group="group" href="img/2004_SRT_BASK/gusakova1.jpg">
+      <img class="img-responsive" src="img/2004_SRT_BASK/gusakova1.jpg">
+    </a>
+  </div>
+</div>
+++++
+
+
+{sp} +
+
+*2003 – Россия, Москва – Малый зал Консерватории*
+
+++++
+<div class="row">
+  <div class="col-md-3 col-sm-4 col-xs-6 thumb">
+    <a class="fancyimage" data-fancybox-group="group" href="img/2003_MOSCOW/image.jpg">
+      <img class="img-responsive" src="img/2003_MOSCOW/image.jpg">
+    </a>
+  </div>
+</div>
+++++
+
+
+{sp} +
+
+*2004 – Германия, Карлсруэ*
+
+++++
+<div class="row">
+  <div class="col-md-3 col-sm-4 col-xs-6 thumb">
+    <a class="fancyimage" data-fancybox-group="group" href="img/2004_KARLSRUHE/image.jpg">
+      <img class="img-responsive" src="img/2004_KARLSRUHE/image.jpg">
+    </a>
+  </div>
+</div>
+++++
+
+
+{sp} +
+
+*2004 – Испания*
+
+++++
+<div class="row">
+  <div class="col-md-3 col-sm-4 col-xs-6 thumb">
+    <p>Берга</p>
+    <a class="fancyimage" data-fancybox-group="group" href="img/2004_SPAIN/berga.jpg">
+      <img class="img-responsive" src="img/2004_SPAIN/berga.jpg">
+    </a>
+  </div>
+  <div class="col-md-3 col-sm-4 col-xs-6 thumb">
+    <p>Бургос</p>
+    <a class="fancyimage" data-fancybox-group="group" href="img/2004_SPAIN/burgos.jpg">
+      <img class="img-responsive" src="img/2004_SPAIN/burgos.jpg">
+    </a>
+  </div>
+  <div class="col-md-3 col-sm-4 col-xs-6 thumb">
+    <p>Palencia</p>
+    <a class="fancyimage" data-fancybox-group="group" href="img/2004_SPAIN/palencia.jpg">
+      <img class="img-responsive" src="img/2004_SPAIN/palencia.jpg">
+    </a>
+  </div>
+  <div class="col-md-3 col-sm-4 col-xs-6 thumb">
+    <p>Менагория</p>
+    <a class="fancyimage" data-fancybox-group="group" href="img/2004_SPAIN/menagaria.jpg">
+      <img class="img-responsive" src="img/2004_SPAIN/menagaria.jpg">
+    </a>
+  </div>
+  <div class="col-md-3 col-sm-4 col-xs-6 thumb">
+    <p>Сан-Хуан</p>
+    <a class="fancyimage" data-fancybox-group="group" href="img/2004_SPAIN/san-juan.jpg">
+      <img class="img-responsive" src="img/2004_SPAIN/san-juan.jpg">
+    </a>
+  </div>
+</div>
+++++
+
+
+{sp} +
+
+*2005 – Россия, Москва – Рахманиновский зал Консерватории*
+
+++++
+<div class="row"> 
+  <div class="col-md-3 col-sm-4 col-xs-6 thumb">
+    <a class="fancyimage" data-fancybox-group="group" href="img/2005_MOSCOW/image.jpg">
+      <img class="img-responsive" src="img/2005_MOSCOW/image.jpg">
+    </a>
+  </div>
+</div>
+++++
+
+
+{sp} +
+
+*2007 – Россия, Москва – Рождество Христово*
+
+++++
+<div class="row"> 
+  <div class="col-md-3 col-sm-4 col-xs-6 thumb">
+    <a class="fancyimage" data-fancybox-group="group" href="img/2007_MOSCOW/image.jpg">
+      <img class="img-responsive" src="img/2007_MOSCOW/image.jpg">
+    </a>
+  </div>
+</div>
+++++
+
+
+{sp} +
+
+*2009 – Рим*
+
+++++
+<div class="row"> 
+  <div class="col-md-3 col-sm-4 col-xs-6 thumb">
+    <a class="fancyimage" data-fancybox-group="group" href="img/2009_ROMA/conzert.jpg">
+      <img class="img-responsive" src="img/2009_ROMA/conzert.jpg">
+    </a>
+  </div>
+</div>
+++++
+
+
+{sp} +
+
+*2011 – Македония, Охрид*
+
+++++
+<div class="row"> 
+  <div class="col-md-3 col-sm-4 col-xs-6 thumb">
+    <a class="fancyimage" data-fancybox-group="group" href="img/2011_OHRID/OhridChoir2011A0382.jpg">
+      <img class="img-responsive" src="img/2011_OHRID/OhridChoir2011A0382.jpg">
+    </a>
+  </div>
+</div>
+++++
+
+
+{sp} +
+
+*2012 – Бельгия*
+
+++++
+<div class="row"> 
+  <div class="col-md-3 col-sm-4 col-xs-6 thumb">
+    <a class="fancyimage" data-fancybox-group="group" href="img/2012_BELGIA/1_5.thumbnail.JPG">
+      <img class="img-responsive" src="img/2012_BELGIA/1_5.thumbnail.JPG">
+    </a>
+  </div>
+  <div class="col-md-3 col-sm-4 col-xs-6 thumb">
+    <a class="fancyimage" data-fancybox-group="group" href="img/2012_BELGIA/2_5.thumbnail.JPG">
+      <img class="img-responsive" src="img/2012_BELGIA/2_5.thumbnail.JPG">
+    </a>
+  </div>
+</div>
+++++
+
+
+{sp} +
+
+*2012 – Италия, Флоренция*
+
+++++
+<div class="row"> 
+  <div class="col-md-3 col-sm-4 col-xs-6 thumb">
+    <a class="fancyimage" data-fancybox-group="group" href="img/2012_FLORENC/DSC04923.JPG">
+      <img class="img-responsive" src="img/2012_FLORENC/DSC04923.JPG">
+    </a>
+  </div>
+</div>
+++++
